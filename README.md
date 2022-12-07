@@ -2,7 +2,9 @@
 - 👀 estou querendo aprender a desenvolver 
 - 🌱 estou aprendendo a desenvolver 
 - 💞️ sem interesse 
-- 📫me procurem na minha casa
+- 📫me procurem em jorge.carlos@escola.pr.gov.br
+
+
 
 !---
  carlos00690/carlos00690 é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
