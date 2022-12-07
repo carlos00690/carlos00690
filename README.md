@@ -1,10 +1,10 @@
 - 👋 ola meu nome é carlos Eduardo 
 - 👀 estou querendo aprender a desenvolver 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 estou aprendendo a desenvolver 
+- 💞️ sem interesse 
+- 📫me procurem na minha casa
 
-<!---
-carlos00690/carlos00690 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+!---
+ carlos00690/carlos00690 é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+ Você pode clicar no link Visualizar para ver suas alterações.
+ --->
